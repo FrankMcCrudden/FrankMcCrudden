@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Somethings about me are that my faorite color is red. 
+Somethings about me are that my faorite color is red. My favorite animals are penguins.
 <!--
 **FrankMcCrudden/FrankMcCrudden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
