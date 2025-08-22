@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-Somethings about me are that my faorite color is red. My favorite animals are penguins.
+Somethings about me are that my faorite color is red. And my favorite animals are penguins.
+
+My biggest hobby is playing vide games. I like playing them so much that I have joined the esports club, and subsecuently some teams.
+I've joined Mario Kart 8 deluxe, Super Smash Brothers Ultimate, and even a more obscure game like pokemon unite.
 <!--
 **FrankMcCrudden/FrankMcCrudden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
